@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "first repository in serverside_web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wathasin2547/my-first-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wathasin2547/my-first-repo/issues"
+  },
+  "homepage": "https://github.com/wathasin2547/my-first-repo#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0",
+    "mysql2": "^3.14.2"
+  }
+}
